@@ -8,3 +8,6 @@ A smart alerting system with data as first class citizens and analytics to its h
 - What if machines are smart enough to make decisions too?
 
 That's what the new alerting system should look like
+
+
+w.i.p
